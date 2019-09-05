@@ -1,0 +1,2 @@
+javac threadedserver/ThreadedServer.java
+java threadedserver.ThreadedServer
